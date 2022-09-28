@@ -1,4 +1,6 @@
 
+https://juejin.cn/post/7147312906680401927
+
 https://juejin.cn/post/7112318717798645768
 
 ## 计算机网络 按分布范围 1.局域网LAN（以太网 基于广播技术） 2.广域网WAN （基于分组交换技术   发送数据报文时将数据划分为等长的分组，发往路由，路由会先把它们放到缓冲区，按一定算法*（确认是否正确并过滤掉冲突包错误）确定转发到哪个节点 直到目的地） 
@@ -474,7 +476,8 @@ MIME 一个互联网标准 扩展了电子邮件标志 使其能够支持 与安
 1024M = 1G
 1024G = 1T
 
-GB2312 GBK 是对 ASCII 的中文扩展  后来太多了 ISO（International Organization for Standardization 国际标准化组织） 的国际组织废了所有的地区性编码方案， 重新搞了一个包括了地球上所有文化、所有字母和符 的编码！ Unicode（Universal Multiple-Octet Coded Character Set，简称 UCS，俗称 Unicode）
+GB2312 GBK 是对 ASCII 的中文扩展  
+O（International Organization for Standardization 国际标准化组织） 的国际组织废了所有的地区性编码方案， 重新搞了一个包括了地球上所有文化、所有字母和符 的编码！ Unicode（Universal Multiple-Octet Coded Character Set，简称 UCS，俗称 Unicode）
 二进制位（bit）   一个字节(byte)
 字节是一个8位的物理存贮单元
 
